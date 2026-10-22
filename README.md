@@ -1,4 +1,4 @@
-# Hi, I'm Ahsan Khalid 👋
+ Hi, I'm Ahsan Khalid 👋
 
 I'm an MSc Artificial Intelligence student at De Montfort University in the UK, with a background in Computer Science.
 
