@@ -49,7 +49,7 @@ I'm interested in building a career in Artificial Intelligence, Machine Learning
 ## Connect With Me
 
 - **LinkedIn:** [Ahsan Khalid](https://www.linkedin.com/in/ahsan-khalid-28262219b)
-- **GitHub:** [ahsankhalid52-ai-dev](https://github.com/ahsankhalid52-ai-dev)## Hi there 👋
+- **GitHub:** [ahsankhalid52-ai-dev](https://github.com/ahsankhalid52-ai-dev)
 
 <!--
 **ahsankhalid52-ai-dev/ahsankhalid52-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
